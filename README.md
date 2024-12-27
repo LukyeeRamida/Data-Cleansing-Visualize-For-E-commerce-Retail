@@ -2,7 +2,9 @@
 
 **Description**
 
-    Online store has a dataset about transaction. This project will do about data profiling, EDA, data cleansing and data visualization. To analyze and do a campaign, such as top spender, top product, top country etc.
+
+Online store has a dataset about transaction. This project will do about data profiling, EDA, data cleansing and data visualization. To analyze and do a campaign, such as top spender, top product, top country etc.
+
 
 **Technologies**
 
